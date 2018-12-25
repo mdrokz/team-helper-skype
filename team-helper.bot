@@ -1,0 +1,19 @@
+{
+    "name": "team-helper",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "channelService": "https://botframework.azure.us",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "55372100-0846-11e9-bd45-2947a392329e",
+            "name": "team-helper"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\moham\\Desktop\\my files\\team-helper\\team-helper.bot",
+    "overrides": null
+}
