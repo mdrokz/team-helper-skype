@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+.ngrok-stable-windows-amd64.zip
+ngrok.exe
+team-helper.bot
