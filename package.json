@@ -5,12 +5,13 @@
   "main": "node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "author": "mdrokz",
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.13.1",
+    "heroku": "^7.19.4",
     "i": "^0.3.6",
     "npm": "^6.5.0",
     "restify": "^7.3.0"
